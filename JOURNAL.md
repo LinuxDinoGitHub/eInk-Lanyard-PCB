@@ -43,3 +43,13 @@ That's it for the big overall plan, I spent around an hour researching into diff
 ![Screenshot 2025-10-05 235341.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTc3LCJwdXIiOiJibG9iX2lkIn19--b41afbc9f0141f9bbecf216ce1fb426ece5d4be2/Screenshot%202025-10-05%20235341.png)
   
 
+## 10/7/2025 - Started the schematic  
+
+Started the schematic of the RP2040 MCU based on the useful guide and also datasheet. Spent some time researching the NFC module I should use as well since the old one metioned does not transfer data, looking at the ST25DV04KC module currently, may subject to change. 
+
+Update: There will **not** be a radio module included as it will draw too much power. Instead, the PCB lanyard could be used as a development board (like a raspberry pi pico) because of all the excess IO pins.
+
+Current progress:
+![Screenshot 2025-10-08 013242.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU3LCJwdXIiOiJibG9iX2lkIn19--6fc9fe4d609cf654cc702a67358c26d3d76dbf24/Screenshot%202025-10-08%20013242.png)
+  
+
