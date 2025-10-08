@@ -53,3 +53,18 @@ Current progress:
 ![Screenshot 2025-10-08 013242.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU3LCJwdXIiOiJibG9iX2lkIn19--6fc9fe4d609cf654cc702a67358c26d3d76dbf24/Screenshot%202025-10-08%20013242.png)
   
 
+## 10/8/2025 - Finished minimal requirements for RP2040 schematic  
+
+# Journal notes
+Using the guide of the datasheet and the HC guide, the schematic is like 50% finished (rp2040 min. requirements done). Still need to add footprints.
+
+I also spent a majority of today researching the e-ink displays I could use (it turns out they are quite expensive, around $10 each). I think a 4-inch e-ink display could work well for a badge, as it is quite cost-effective. I found a lot of modules on Alibaba, but I have found that Taobao is much more resourceful, so I might look into that. 
+
+The power supply system also requires some attention, as I plan to power it with a 3V coin cell battery, which can be a bit challenging for a beginner like me.
+
+I'm not sure on the pinouts of eink displays, so I need to research more into the datasheet as well.
+
+# Schematic progress for today:
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA2NywicHVyIjoiYmxvYl9pZCJ9fQ==--960df796ba374baafa45dfa048669c0f6c91012c/image.png)
+  
+
